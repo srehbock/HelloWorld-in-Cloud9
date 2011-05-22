@@ -1,3 +1,3 @@
 <?php
 
-echo "This is pretty awesome";
+echo "This is pretty awesome, plain awesome";
